@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414576301871",
+    "project_id": "tube-run-4e9c8",
+    "storage_bucket": "tube-run-4e9c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414576301871:android:a277a69c1057d4d11433da",
+        "android_client_info": {
+          "package_name": "com.wegalabs.tuberun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhGByyf57Bn-LIYFgdyX4dGlvbV6STvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
